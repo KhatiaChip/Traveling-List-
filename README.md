@@ -11,8 +11,8 @@ Traveling List React Application, very useful when you want to pack. It helps ma
 
 # Screenshots
 
-<img src=pizza-scrn.png>
+<img src=traveling.list.png>
 
-# Link to check my React Pizza-Menu project
+# Link to check my React Traveling-List project
 
 https://khatiachip.github.io/Traveling-List-App-React/
